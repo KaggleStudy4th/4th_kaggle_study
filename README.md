@@ -15,6 +15,6 @@
 |3|2022.01.20~01.26|기계학습 수업 9,10,11주차(의사결정나무, SVM, 군집화, ) 공부+실습|
 |4|2022.01.27~02.03|기계학습 수업 12,13,14,15주차(차원축소,교차검증,AutoML,앙상블) 공부+실습|
 |5|2022.02.04~02.09|기계학습 수업 기말고사 문제 풀이 + 인공지능 수업 3,4주차(선형회귀,분류) 공부+실습|
-|6|2022.02.10~02.16|데이콘 실습| 항공사 고객도 만족 예측 https://dacon.io/competitions/official/235871/overview/description / 물류 유통량 예측 경진대회  https://dacon.io/competitions/official/235867/overview/description 
+|6|2022.02.10~02.16|데이콘 실습- 항공사 고객도 만족 예측 https://dacon.io/competitions/official/235871/overview/description / 물류 유통량 예측 경진대회  https://dacon.io/competitions/official/235867/overview/description 
 |7|2022.02.17~02.23|데이콘 실습|
 |8|2022.02.24~03.02|데이콘 실습|
