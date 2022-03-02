@@ -17,4 +17,4 @@
 |5|2022.02.04~02.09|기계학습 수업 기말고사 문제 풀이 + 인공지능 수업 3,4주차(선형회귀,분류) 공부+실습|
 |6|2022.02.10~02.16|데이콘 실습- 항공사 고객도 만족 예측 https://dacon.io/competitions/official/235871/overview/description / 물류 유통량 예측 경진대회  https://dacon.io/competitions/official/235867/overview/description 
 |7|2022.02.17~02.23|데이콘 실습- 가스공급량 수요예측 모델개발  https://dacon.io/competitions/official/235830/data / 혼자 공부하는 머신러닝+딥러닝 7-1(인공신경망), 7-2(심층신경망) 이론+실습 
-|8|2022.02.24~03.02|데이콘 실습- 농산물 가격예측 https://dacon.io/competitions/official/235801/data / Pytorch로 시작하는 딥러닝 입문 1~5(소프트맥스 회귀까지)
+|8|2022.02.24~03.02|데이콘 실습- 농산물 가격예측 https://dacon.io/competitions/official/235801/data / Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 1~5(소프트맥스 회귀까지)
