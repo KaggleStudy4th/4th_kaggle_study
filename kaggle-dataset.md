@@ -31,3 +31,7 @@ https://www.kaggle.com/adityakadiwal/water-potability
 이모티콘 센서 
 
 https://www.kaggle.com/iwilldoit/emotions-sensor-data-set
+
+유방암 예측
+
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
