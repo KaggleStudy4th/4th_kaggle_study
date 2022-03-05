@@ -16,7 +16,7 @@ Customer Personality Analysis
 
 https://www.kaggle.com/imakash3011/customer-personality-analysis
 
-당뇨병
+유방암
 
 https://www.kaggle.com/yasserh/breast-cancer-dataset
 
