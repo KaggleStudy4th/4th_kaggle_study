@@ -18,3 +18,7 @@
 |6|2022.02.10~02.16|데이콘 실습- 항공사 고객도 만족 예측 https://dacon.io/competitions/official/235871/overview/description / 물류 유통량 예측 경진대회  https://dacon.io/competitions/official/235867/overview/description 
 |7|2022.02.17~02.23|데이콘 실습- 가스공급량 수요예측 모델개발  https://dacon.io/competitions/official/235830/data / 혼자 공부하는 머신러닝+딥러닝 7-1(인공신경망), 7-2(심층신경망) 이론+실습 
 |8|2022.02.24~03.02|데이콘 실습- 농산물 가격예측 https://dacon.io/competitions/official/235801/data / Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 1~5(소프트맥스 회귀까지)
+|9|2022.03.03~03.09|kaggle 실습- 심장병 예측 https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset / Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 6장(인공신경망)
+|10|2022.03.10~03.16|kaggle 실습- Customer Personality Analysis https://www.kaggle.com/imakash3011/customer-personality-analysis /  Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 7~8장
+|11|2022.03.17~03.23|kaggle 실습- 호주 우기 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package / Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 9~10장
+|12|2022.03.24~03.30|kaggle 실습- 와인 분류 https://www.kaggle.com/yasserh/wine-quality-dataset /  Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 11~14장
