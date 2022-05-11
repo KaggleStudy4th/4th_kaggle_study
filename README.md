@@ -23,3 +23,4 @@
 |11|2022.03.17~03.23|kaggle 실습- 호주 우기 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package / Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 9~10장
 |12|2022.03.24~03.30|kaggle 실습- 와인 분류 https://www.kaggle.com/yasserh/wine-quality-dataset /  Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 11~14장
 |13|2022.03.31~04.06|kaggle 실습- 우크라이나, 러시아 전쟁 https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war
+|14|2022.05.05~05.11|dacon 실습- 소비자 데이터 기반 소비 예측 https://dacon.io/competitions/official/235893/overview/description
