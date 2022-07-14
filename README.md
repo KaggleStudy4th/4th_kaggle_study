@@ -23,4 +23,17 @@
 |11|2022.03.17~03.23|kaggle 실습- 호주 우기 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package / Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 9~10장
 |12|2022.03.24~03.30|kaggle 실습- 와인 분류 https://www.kaggle.com/yasserh/wine-quality-dataset /  Pytorch로 시작하는 딥러닝 입문(https://wikidocs.net/book/2788) 11~14장
 |13|2022.03.31~04.06|kaggle 실습- 우크라이나, 러시아 전쟁 https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war
-|14|2022.05.05~05.11|dacon 실습- 소비자 데이터 기반 소비 예측 https://dacon.io/competitions/official/235893/overview/description
+|14|2022.04.28~05.04|dacon 실습- 소비자 데이터 기반 소비 예측 https://dacon.io/competitions/official/235893/overview/description
+|15|2022.05.05~05.11|dacon 실습- 소비자 데이터 기반 소비 예측 상위 랭커 코드 분석
+|16|2022.05.12~05.18|dacon 실습- 소비자 데이터 기반 소비 예측 상위 랭커 코드 분석
+|17|2022.05.19~05.25|dacon 실습- 소비자 데이터 기반 소비 예측 상위 랭커 코드 분석
+<------방학 커리큘럼------>
+|18|2022.07.07~07.14|인공지능 수업- 3주차 선형회귀 이론&실습
+|19|2022.07.15~07.21|인공지능 수업- 4주차 선형분류 이론&실습
+|20|2022.07.22~07.28|인공지능 수업- 5주차 모델학습 이론
+|21|2022.07.29~08.04|인공지능 수업- 6주차
+|21|2022.07.29~08.04|인공지능 수업- 7주차
+|22|2022.08.05~08.11|인공지능 수업- 9주차
+|23|2022.08.12~08.18|인공지능 수업- 10주차
+|24|2022.08.19~08.25|인공지능 수업- 11주차
+|25|2022.08.26~09.01|인공지능 수업- 13주차
